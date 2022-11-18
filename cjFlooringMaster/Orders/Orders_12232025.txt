@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,CreationDate,Status,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6,Chris Me,2022-11-18T14:40:20,ACTIVE,CA,25.00,Tile,101,3.50,4.15,353.50,419.15,193.16,965.81

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,CreationDate,Status,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+5,Me Too,2022-11-18T12:22:12,ACTIVE,CA,25.00,Carpet,285,2.25,2.10,896.00,1062.40,489.60,2448.00
